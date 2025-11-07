@@ -1,0 +1,3 @@
+
+:他被你逗笑了。;
+changeScene:四.txt;

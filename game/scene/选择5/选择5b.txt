@@ -1,0 +1,6 @@
+
+changeBg:Z(周鱼jszx)/教室晴.jpg;
+changeFigure:zyx/正脸主立绘.png;
+角色名，留空以继承上句:周宇轩犹豫了一下。;
+周宇轩:那我也不去了，正好问你道题。;
+changeScene:六.txt;

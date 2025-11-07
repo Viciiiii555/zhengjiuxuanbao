@@ -1,0 +1,4 @@
+changeBg:Z(周鱼jszx)/食堂晴.jpeg;
+changeFigure:zyx/正脸主立绘.png;
+周宇轩:嘿嘿，还是你懂我！下次一起？;
+changeScene:二.txt;

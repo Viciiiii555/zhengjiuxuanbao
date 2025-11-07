@@ -1,0 +1,4 @@
+;
+changeBg:Z(周鱼jszx)/食堂晴.jpeg;
+:他点点头，继续热情地给你介绍。;
+changeScene:二.txt;

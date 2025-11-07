@@ -1,0 +1,10 @@
+;NE
+changeFigure:none;
+:泪水失重，笑容在唇边绽放成透明的花。;
+你:再见。;
+:指尖拂过他的脸颊，如流星划过天际，留下一道温暖的灼痕。;
+changeBg:J（未知地点）/J1.jpg;
+intro:身体开始羽化，变轻，散作流萤。风声吞没了告别。关于他的记忆，被压缩成光核，沉入心底。|他向前一步，身影在消散的视野中凝固成永恒的剪影，带着泪光的微笑，是青春注脚里最温柔的标点。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:此后的每一次抬头，星空都回荡着同一个名字。每一阵晚风，都像是来自那年操场的低语。|自由，是你赠我的最后礼物。而我，以漫天的星辰为你谱曲。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:达成NE结局【予爱自由】;
+end;
