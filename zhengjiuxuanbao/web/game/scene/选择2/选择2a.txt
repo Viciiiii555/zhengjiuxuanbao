@@ -1,0 +1,5 @@
+
+changeBg:Z(周鱼jszx)/紫藤花廊.jpg;
+:他眼前一亮。;
+周宇轩:那当然，这可是“文物”！;
+changeScene:三.txt;
