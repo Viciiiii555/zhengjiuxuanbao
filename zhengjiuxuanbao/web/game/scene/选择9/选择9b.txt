@@ -1,9 +1,0 @@
-;HE
-changeFigure:none;
-:你摇头。扑入他怀中。校服布料摩擦着脸颊，熟悉的皂角香气瞬间构筑了唯一的宇宙。;
-changeBg:J（未知地点）/J1.jpg;
-intro:拥抱的力度，像是要将骨骼烙印进彼此的生命。颤抖，喘息，失控的心跳谱写成唯一的真实。|系统界面如碎冰消融，化作晶莹的尘埃，湮灭于夜色。束缚解离，只剩下体温与心跳在寂静中轰鸣。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-intro:他低头，额发轻扫过你的眉骨，鼻尖相触，呼吸交织。|“那就说好了……” 声音带着笑意的震动，沉入你的血脉。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-intro:远处教学楼的灯火，次第亮起，如星河倾倒。所有的公式、任务、边界都模糊远去。只有这个拥抱，这阵风，这片星空，和他，成为了存在的意义。|此间心动，无需证明，皆为真实。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-:达成HE结局【此间心动，皆为真实】;
-end;

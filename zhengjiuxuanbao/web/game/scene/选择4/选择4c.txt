@@ -1,5 +1,0 @@
-
-changeFigure:zyx/夏季校服坐.png;
-:他耳根微红，笑着承认：;
-周宇轩:啊，被发现了。;
-changeScene:五.txt;

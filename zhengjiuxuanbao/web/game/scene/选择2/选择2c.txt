@@ -1,4 +1,0 @@
-
-changeBg:Z(周鱼jszx)/紫藤花廊.jpg;
-周宇轩:对呀，这可是你送我的！;
-changeScene:三.txt;
